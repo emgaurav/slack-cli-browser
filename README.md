@@ -59,8 +59,3 @@ This tool is for educational purposes only. Ensure you have the right authorizat
 ## Contributions
 
 Contributions are welcome. Please fork the repository and submit a pull request with your enhancements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
